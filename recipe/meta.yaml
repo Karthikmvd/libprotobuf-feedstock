@@ -20,7 +20,7 @@ build:
 
 requirements:
   build:
-    - toolchain
+  #  - toolchain
     - git                # [win]
     - cmake              # [win]
     - autoconf           # [unix]
